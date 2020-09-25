@@ -2,3 +2,4 @@ This is the first file created in git
 Added second line
 Added third line in dev branch added bug added extra line another developer included bug for merge conflict
 Added extra line added to test the text went to repo or not
+Added random text to check the difference between fetch and pull 
